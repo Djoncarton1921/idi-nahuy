@@ -1,1 +1,1 @@
-printf("poshel nahuy")
+print("poshel nahuy")
